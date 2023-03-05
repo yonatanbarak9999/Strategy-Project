@@ -3,7 +3,6 @@ Author: Yonatan Barak
 Date: 05/3/2023
 """
 # ------ Import ------ #
-
 import bs4
 import os
 import requests
