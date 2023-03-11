@@ -1,9 +1,6 @@
 Adbri Limited
 AGL Energy Ltd.
 Airbus Group
-Anglo American plc
-Anhui Conch Cement Company Limited
-Bayerische Motoren Werke Aktiengesellschaft
 Bluescope Steel Ltd.
 Boral Ltd.
 Bunge Ltd.
@@ -49,10 +46,8 @@ SK Innovation Co. Ltd.
 SSAB AB
 SSE PLC
 Stellantis NV
-Suzuki Motor Corp.
 Toray Industries, Inc.
 Ultratech Cement Ltd.
 Uniper SE
-Volvo AB
 Woodside Petroleum Ltd.
 Woolworths Group Ltd.
