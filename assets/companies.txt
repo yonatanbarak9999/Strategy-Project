@@ -2,40 +2,16 @@ A.P. Moller (Maersk)
 Adbri Limited
 AES Corp.
 AGL Energy Ltd.
-Air France–KLM S.A.
+Air France
 Airbus Group
 American Airlines Group Inc.
 American Electric Power Company, Inc.
 Anglo American plc
-Anhui Conch Cement Company Ltd.
+Anhui Conch Cement Company Limited
 ArcelorMittal S.A.
 BASF SE
 Bayer AG
-Bayerische Motoren Werke Aktiengesellschaft (BMW)
-Berkshire Hathaway
-BHP Group
-Bluescope Steel Ltd.
-Boeing Co.
-Boral Ltd.
-BP plc
-Bunge Ltd.
-Canadian Natural Resources Ltd.
-Caterpillar Inc.
-CEMEX S.A.B. de C.V.
-A.P. Moller (Maersk)
-Adbri Limited
-AES Corp.
-AGL Energy Ltd.
-Air France–KLM S.A.
-Airbus Group
-American Airlines Group Inc.
-American Electric Power Company, Inc.
-Anglo American plc
-Anhui Conch Cement Company Ltd.
-ArcelorMittal S.A.
-BASF SE
-Bayer AG
-Bayerische Motoren Werke Aktiengesellschaft (BMW)
+Bayerische Motoren Werke Aktiengesellschaft
 Berkshire Hathaway
 BHP Group
 Bluescope Steel Ltd.
@@ -76,11 +52,11 @@ Incitec Pivot Limited
 International Paper Company
 Kinder Morgan
 Koninklijke Philips
-Korea Electric Power Corp. (KEPCO)
+Korea Electric Power Corp
 l'Air Liquide S.A.
 Lockheed Martin Corporation
 Lukoil OAO
-LyondellBasell Industries N.V. Cl A
+LyondellBasell Industries N.V.
 Marathon Petroleum
 Martin Marietta Materials
 Mercedes-Benz Group AG
@@ -94,7 +70,7 @@ Nissan Motor Co. Ltd.
 NRG Energy, Inc.
 NTPC Ltd
 Occidental Petroleum Corp.
-Oil &amp; Natural Gas Corp.
+Oil and Natural Gas Corporation Limited
 Oil Search
 OMV AG
 Orica Ltd.
@@ -106,15 +82,15 @@ PetroChina Co. Ltd
 Petróleo Brasileiro S.A. (Petrobras)
 Petróleos Mexicanos (PEMEX)
 Phillips 66
-Polska Grupa Energetyczna S.A. (PGE)
+Polska Grupa Energetyczna S.A.
 POSCO Holdings Inc.
 Power Assets Holdings Ltd.
 PPL Corp.
-Procter &amp; Gamble Co.
-PT Aneka Tambang Tbk (ANTAM)
+Procter & Gamble Co.
+PT Aneka Tambang Tbk
 PT Bumi Resources Tbk
 PT United Tractors Tbk
-PTT Public Co. Ltd.
+PTT Public Co.
 Qantas Airways Ltd.
 Raytheon Technologies Corp.
 Reliance Industries
@@ -128,7 +104,7 @@ SAIC Motor Corp.
 Saint-Gobain S.A.
 Santos Ltd.
 Sasol Ltd.
-Saudi Arabian Oil Company (Aramco)
+Saudi Arabian Oil Company
 Severstal PAO
 Shell plc
 Siemens Energy
@@ -136,7 +112,7 @@ SK Innovation Co. Ltd.
 South32 Ltd.
 SSAB AB
 SSE PLC
-Stellantis NV (former Fiat/PSA Groupe)
+Stellantis NV
 Suncor Energy Inc.
 Suzano S.A.
 Suzuki Motor Corp.
@@ -155,7 +131,7 @@ Uniper SE
 United Airlines Holdings, Inc.
 Vale S.A.
 Valero Energy Corp.
-Vedanta Ltd.
+Vedanta limited
 Vistra Corp.
 Volkswagen AG
 Volvo AB

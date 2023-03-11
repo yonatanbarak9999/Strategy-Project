@@ -1,0 +1,9 @@
+Eskom Holdings SOC Ltd.              ### Private
+Gazprom PAO                          ### Private
+Lukoil OAO                           ### Not found
+MMC Norilsk Nickel PSJC              ### Not found
+Oil Search                           ### Not found
+Petróleo Brasileiro S.A. - Petrobras ### https://finance.yahoo.com/quote/PBR?p=PBR&.tsrc=fin-srch
+Petróleos Mexicanos (PEMEX)          ### Not found
+Rosneft Oil Company                  ### Not found
+Severstal PAO                        ### Not found
