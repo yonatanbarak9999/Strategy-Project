@@ -1,0 +1,3 @@
+pandas~=1.5.1
+numpy~=1.23.3
+statsmodels~=0.14.0
